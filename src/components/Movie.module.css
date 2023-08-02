@@ -1,0 +1,23 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+
+ul {
+  padding-left: 15px;
+  margin-top: 0;
+}
+li {
+  list-style: "- ";
+}
+
+.div {
+  margin-left: 3.3%;
+  margin-right: 3.3%;
+  margin-top: 5%;
+  width: 26.7%;
+  align-items: center;
+  border-bottom: 1px solid gray;
+}
